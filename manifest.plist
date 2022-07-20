@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://rd.aecl.com.tw:8443/wss008/ios/image01.png</string>
+					<string>https://github.com/larryweiii/ServerApp/image01.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://rd.aecl.com.tw:8443/wss008/ios/image02.png</string>
+					<string>https://github.com/larryweiii/ServerApp/image01.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
